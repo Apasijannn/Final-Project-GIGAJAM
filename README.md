@@ -7,7 +7,6 @@
 ## 📝 Deskripsi Proyek
 Selamat datang di repositori **Berie's Adventure Seaside**! Proyek ini adalah game 2D bergenre platformer yang dikembangkan menggunakan engine **Construct 3**. Fokus utama dari proyek ini adalah menciptakan pengalaman bermain yang responsif dengan mekanik klasik seperti melompat, menghindari rintangan, dan mengumpulkan item.
 
-> **Note:** Game ini dikembangkan sebagai bagian dari portofolio pengembangan game berbasis web.
 
 ---
 
