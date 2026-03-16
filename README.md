@@ -1,4 +1,5 @@
-# 🎮 Berie's Adventure Seasiede - 2D Platformer
+# 🎮 Berie's Adventure Seaside - 2D Platformer
+
 
 Selamat datang di repositori Berie's Adventure Seaside! Ini adalah game platformer 2D yang dibangun menggunakan Construct 3. Game ini menggabungkan mekanisme pergerakan klasik dengan elemen visual yang menarik.
 
