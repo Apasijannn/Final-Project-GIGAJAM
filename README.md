@@ -38,7 +38,7 @@ Selamat datang di repositori **Berie's Adventure Seaside**! Proyek ini adalah ga
 ## ⌨️ Kontrol Game
 | Aksi | Tombol |
 | :--- | :--- |
-| **Bergerak** | Tombol Panah atau |
+| **Bergerak** | Tombol Panah kanan atau kiri |
 | **Melompat** | Tombol Atas|
 
 ---
